@@ -1,0 +1,203 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-container {
+    background-color: #225db0;
+    padding: 10px;
+    height: 95vh;
+}
+
+.empower-card {
+    padding: 10px;
+}
+
+.home-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.home-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.technology-detail-container {
+    background-color: #225db0;
+    padding: 15px;
+}
+
+.primary-card {
+    padding: 10px;
+    margin: 10px;
+}
+
+.technology-card {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 15px;
+    height: 120px;
+    width: 180px;
+    margin: 20px;
+}
+
+.img1 {
+    height: 50px;
+    width: 50px;
+
+}
+
+.technology-head {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.science-card {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 15px;
+    height: 120px;
+    width: 180px;
+    margin: 20px;
+}
+
+.img2 {
+    height: 50px;
+    width: 50px;
+}
+
+.science-head {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    color: #1f2933;
+}
+
+.secondary-card {
+    padding: 10px;
+    margin: 10px;
+}
+
+.healthcare-card {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 15px;
+    height: 120px;
+    width: 180px;
+    margin: 20px;
+}
+
+.img3 {
+    height: 50px;
+    width: 50px;
+}
+
+.health-care-head {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.business-card {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 15px;
+    height: 120px;
+    width: 180px;
+    margin: 20px;
+}
+
+.img4 {
+    height: 50px;
+    width: 50px;
+}
+
+.busines-head {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.tech-head {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.tech-list {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.btn {
+    background-color: #225db0;
+    border-color: #ffffff;
+    width: 80px;
+}
+
+.science-detail-container {
+    background-color: #225db0;
+    padding: 15px;
+}
+
+.science-head {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.science-list {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.healthcare-detail-container {
+    background-color: #225db0;
+    padding: 15px;
+}
+
+.healthcare-head {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.healthcare-list {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.business-detail-container {
+    background-color: #225db0;
+    padding: 15px;
+}
+
+.business-head {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.business-list {
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.
